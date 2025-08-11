@@ -1,0 +1,126 @@
+01/08/2025 07:44:12 a. m.: Error al consultar el serial No information found for serial number 'cfdcfd'
+01/08/2025 07:44:13 a. m.: Error: Error al consultar el serial No information found for serial number 'cfdcfd'
+01/08/2025 10:41:20 a. m.: Error al consultar el serial No information found for serial number ',hvjhvn'
+01/08/2025 10:41:20 a. m.: Error: Error al consultar el serial No information found for serial number ',hvjhvn'
+01/08/2025 10:41:22 a. m.: Campo vacio
+01/08/2025 10:45:21 a. m.: Unidad en fuera de flujo SCRAPPED, Q200
+01/08/2025 10:45:21 a. m.: Error: Unidad en fuera de flujo SCRAPPED, Q200
+01/08/2025 10:45:57 a. m.: Unidad en fuera de flujo IN QUEUE, Q110
+01/08/2025 10:45:57 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q110
+01/08/2025 01:08:04 p. m.: Error al consultar el serial No information found for serial number 'kjbj'
+01/08/2025 01:08:04 p. m.: Error: Error al consultar el serial No information found for serial number 'kjbj'
+01/08/2025 01:16:25 p. m.: Unidad en fuera de flujo SCRAPPED, Q200
+01/08/2025 01:16:25 p. m.: Error: Unidad en fuera de flujo SCRAPPED, Q200
+01/08/2025 02:06:27 p. m.: Error al consultar el serial No information found for serial number 'P8818000'
+01/08/2025 02:06:27 p. m.: Error: Error al consultar el serial No information found for serial number 'P8818000'
+01/08/2025 10:04:01 p. m.: Error al consultar el serial No information found for serial number 'dsfsd'
+01/08/2025 10:04:01 p. m.: Error: Error al consultar el serial No information found for serial number 'dsfsd'
+01/08/2025 10:04:08 p. m.: Error al consultar el serial No information found for serial number 'gsffsdds'
+01/08/2025 10:04:08 p. m.: Error: Error al consultar el serial No information found for serial number 'gsffsdds'
+01/08/2025 10:06:26 p. m.: Unidad en fuera de flujo SCRAPPED, Q200
+01/08/2025 10:06:26 p. m.: Error: Unidad en fuera de flujo SCRAPPED, Q200
+01/08/2025 10:06:54 p. m.: Unidad en fuera de flujo SCRAPPED, Q200
+01/08/2025 10:06:54 p. m.: Error: Unidad en fuera de flujo SCRAPPED, Q200
+01/08/2025 10:06:54 p. m.: Campo vacio
+01/08/2025 10:06:54 p. m.: Campo vacio
+01/08/2025 11:37:23 p. m.: Error al consultar el serial No information found for serial number 'dds'
+01/08/2025 11:37:23 p. m.: Error: Error al consultar el serial No information found for serial number 'dds'
+02/08/2025 07:23:53 a. m.: Error al consultar el serial No information found for serial number ',jbhv'
+02/08/2025 07:23:53 a. m.: Error: Error al consultar el serial No information found for serial number ',jbhv'
+02/08/2025 07:30:09 a. m.: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 07:30:09 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 10:49:05 a. m.: Unidad en fuera de flujo IN QUEUE, Q200
+02/08/2025 10:49:05 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q200
+02/08/2025 10:49:21 a. m.: Unidad en fuera de flujo IN QUEUE, Q200
+02/08/2025 10:49:21 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q200
+02/08/2025 10:50:17 a. m.: Error al consultar el serial No information found for serial number 'ojmk'
+02/08/2025 10:50:17 a. m.: Error: Error al consultar el serial No information found for serial number 'ojmk'
+02/08/2025 10:50:22 a. m.: Unidad en fuera de flujo IN QUEUE, Q200
+02/08/2025 10:50:22 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q200
+02/08/2025 10:51:16 a. m.: Unidad en fuera de flujo IN QUEUE, Q200
+02/08/2025 10:51:16 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q200
+02/08/2025 10:51:49 a. m.: Unidad en fuera de flujo IN QUEUE, Q200
+02/08/2025 10:51:49 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q200
+02/08/2025 10:55:09 a. m.: Unidad en fuera de flujo IN QUEUE, Q200
+02/08/2025 10:55:09 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q200
+02/08/2025 10:56:21 a. m.: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 10:56:21 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 10:57:36 a. m.: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 10:57:36 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 10:59:49 a. m.: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 10:59:49 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:02:55 a. m.: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:02:55 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:03:04 a. m.: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:03:04 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:03:04 a. m.: Campo vacio
+02/08/2025 11:03:04 a. m.: Campo vacio
+02/08/2025 11:03:04 a. m.: Campo vacio
+02/08/2025 11:03:05 a. m.: Campo vacio
+02/08/2025 11:03:06 a. m.: Campo vacio
+02/08/2025 11:03:09 a. m.: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:03:09 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:04:42 a. m.: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:04:42 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:07:03 a. m.: Campo vacio
+02/08/2025 11:07:04 a. m.: Campo vacio
+02/08/2025 11:07:04 a. m.: Campo vacio
+02/08/2025 11:07:05 a. m.: Campo vacio
+02/08/2025 11:07:05 a. m.: Campo vacio
+02/08/2025 11:07:06 a. m.: Campo vacio
+02/08/2025 11:07:06 a. m.: Campo vacio
+02/08/2025 11:07:08 a. m.: Unidad en fuera de flujo SCRAPPED, Q200
+02/08/2025 11:07:08 a. m.: Error: Unidad en fuera de flujo SCRAPPED, Q200
+02/08/2025 11:08:05 a. m.: Unidad en fuera de flujo SCRAPPED, Q200
+02/08/2025 11:08:05 a. m.: Error: Unidad en fuera de flujo SCRAPPED, Q200
+02/08/2025 11:08:11 a. m.: Unidad en fuera de flujo SCRAPPED, Q200
+02/08/2025 11:08:11 a. m.: Error: Unidad en fuera de flujo SCRAPPED, Q200
+02/08/2025 11:08:47 a. m.: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:08:47 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:09:51 a. m.: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:09:51 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:09:52 a. m.: Campo vacio
+02/08/2025 11:09:53 a. m.: Campo vacio
+02/08/2025 11:09:54 a. m.: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:09:54 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:10:00 a. m.: Campo vacio
+02/08/2025 11:10:01 a. m.: Campo vacio
+02/08/2025 11:10:01 a. m.: Campo vacio
+02/08/2025 11:10:02 a. m.: Campo vacio
+02/08/2025 11:10:03 a. m.: Campo vacio
+02/08/2025 11:10:05 a. m.: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:10:05 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:12:50 a. m.: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:12:50 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:13:04 a. m.: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:13:04 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:13:07 a. m.: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:13:07 a. m.: Error: Unidad en fuera de flujo IN QUEUE, Q110
+02/08/2025 11:25:20 a. m.: Error al consultar el serial No information found for serial number '31, 24, 24'
+02/08/2025 11:25:20 a. m.: Error: Error al consultar el serial No information found for serial number '31, 24, 24'
+02/08/2025 01:48:21 p. m.: Error al consultar el serial No information found for serial number 'fghnfg'
+02/08/2025 01:48:21 p. m.: Error: Error al consultar el serial No information found for serial number 'fghnfg'
+05/08/2025 11:36:48 a. m.: Error al consultar el serial No information found for serial number '251915GK01490'
+05/08/2025 11:36:48 a. m.: Error: Error al consultar el serial No information found for serial number '251915GK01490'
+05/08/2025 11:42:06 a. m.: Error al consultar el serial No information found for serial number '251915GK0149safdsf'
+05/08/2025 11:42:06 a. m.: Error: Error al consultar el serial No information found for serial number '251915GK0149safdsf'
+05/08/2025 11:42:14 a. m.: Error al consultar el serial No information found for serial number '251915GK0149fdgfdgfdgfdg'
+05/08/2025 11:42:14 a. m.: Error: Error al consultar el serial No information found for serial number '251915GK0149fdgfdgfdgfdg'
+05/08/2025 11:43:08 a. m.: Error al consultar el serial No information found for serial number '251915GK0149jgjhgjhdsfds'
+05/08/2025 11:43:08 a. m.: Error: Error al consultar el serial No information found for serial number '251915GK0149jgjhgjhdsfds'
+05/08/2025 12:01:06 p. m.: Error al consultar el serial No information found for serial number '251915G'
+05/08/2025 12:01:06 p. m.: Error: Error al consultar el serial No information found for serial number '251915G'
+05/08/2025 12:01:29 p. m.: Error al consultar el serial No information found for serial number '#251915GK014'
+05/08/2025 12:01:29 p. m.: Error: Error al consultar el serial No information found for serial number '#251915GK014'
+05/08/2025 12:01:56 p. m.: Error al consultar el serial No information found for serial number '        XXXX'
+05/08/2025 12:01:56 p. m.: Error: Error al consultar el serial No information found for serial number '        XXXX'
+05/08/2025 12:49:40 p. m.: Unidad en fuera de flujo SCRAPPED, Q200
+05/08/2025 12:49:40 p. m.: Error: Unidad en fuera de flujo SCRAPPED, Q200
+05/08/2025 12:49:41 p. m.: Campo vacio
+05/08/2025 12:49:44 p. m.: Unidad en fuera de flujo SCRAPPED, Q200
+05/08/2025 12:49:44 p. m.: Error: Unidad en fuera de flujo SCRAPPED, Q200
+05/08/2025 12:49:49 p. m.: Error al consultar el serial No information found for serial number 'fdgf'
+05/08/2025 12:49:49 p. m.: Error: Error al consultar el serial No information found for serial number 'fdgf'
+05/08/2025 12:49:50 p. m.: Campo vacio
+05/08/2025 12:50:06 p. m.: Error al consultar el serial No information found for serial number '253013GI0020   sdfdssf'
+05/08/2025 12:50:06 p. m.: Error: Error al consultar el serial No information found for serial number '253013GI0020   sdfdssf'

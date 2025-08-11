@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalInspectionKia", "FinalInspectionKia\FinalInspectionKia.csproj", "{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {039DD027-AD0A-4656-A012-DF748FAC176B}
+	EndGlobalSection
+EndGlobal
