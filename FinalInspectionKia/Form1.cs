@@ -37,6 +37,8 @@ namespace FinalInspectionKia
         //  Configuracion config;
         Configuracion config = new Configuracion();
 
+        string serialCut = string.Empty;
+
         public Form1()
         {
             InitializeComponent();
@@ -47,6 +49,9 @@ namespace FinalInspectionKia
                 Version ver = ApplicationDeployment.CurrentDeployment.CurrentVersion;
                 lblVersion.Text = ver.Major + "." + ver.Minor + "." + ver.Build + "." + ver.Revision;
             }
+
+            this.WindowState = FormWindowState.Maximized;
+
         }
 
 
@@ -60,9 +65,9 @@ namespace FinalInspectionKia
                 lblTitulo.Text = "Final Inspection KIA";
                 lblOpcode.Text = $"{config.opcode}";
             }
-            else if (config.opcode == "S210")
+            else if (config.opcode == "Q110")
             {
-                lblTitulo.Text = "EPC KIA";
+                lblTitulo.Text = "Quality wall";
                 lblOpcode.Text = $"{config.opcode}";
 
             }
@@ -138,35 +143,38 @@ namespace FinalInspectionKia
                 if (txtEtiquetaViajera.Text != string.Empty)
                 {
 
-                    /*
-                     
-                     string serial = string.Empty;
 
-                    // Expresion regular XXXX#251915GK0149
+                    // Expresion regular P8818000#251915GK0149
 
-                    bool ok = Regex.IsMatch(txtEtiquetaViajera.Text.Trim(),"^XXXX#[0-9]{6}[A-Z]{2}[0-9]{4}$",RegexOptions.IgnoreCase);
+                    bool ok = Regex.IsMatch(txtEtiquetaViajera.Text.Trim(), "^P8818000#[0-9]{6}[A-Z]{2}[0-9]{4}$", RegexOptions.IgnoreCase);
 
                     if (ok)
                     {
                         Console.WriteLine("Si coincide");
-                        serial = txtEtiquetaViajera.Text.Substring(5,12);
-                        Console.WriteLine($"Serial: {serial}");
+                       // serialCut = txtEtiquetaViajera.Text.Substring(5,12);
+                        serialCut = txtEtiquetaViajera.Text.Trim().Substring(9);
+                        Console.WriteLine($"Serial: {serialCut}");
                         
+
                     }
                     else
                     {
                         Console.WriteLine("No coincide");
 
                         Msg("Error con serial!!",2);
+                        txtEtiquetaViajera.Text = string.Empty;
                         return;
                        
                     }
-                     */
+                     
 
 
                     // Validamos que el serial este en la estacion correcta
 
-                    string ValidacionSerial = runcardMethod.ValidarSerial(txtEtiquetaViajera.Text.Trim(), out retro);
+
+                    Console.WriteLine(serialCut);
+
+                    string ValidacionSerial = runcardMethod.ValidarSerial(serialCut, out retro);
 
                     if (retro == string.Empty)
                     {
@@ -178,8 +186,9 @@ namespace FinalInspectionKia
                             txtAprobacion.Visible = true;
                             lblAprobacion.Visible = true;
                          //   timerAprobacion.Enabled = true;
+                            txtAprobacion.Focus();
                             LimpiarMsg();
-                            Clipboard.SetText("");
+                            //Clipboard.SetText("");
 
                         }
                         else
@@ -199,6 +208,7 @@ namespace FinalInspectionKia
                         Msg($"Error: {retro}",2);
                         log.generarlog($"Error: {retro}");
                         txtEtiquetaViajera.Text = string.Empty;
+                        serialCut = string.Empty;
                         return;
                     }
 
@@ -283,13 +293,13 @@ namespace FinalInspectionKia
 
             if (cbxRechazar.Text == string.Empty)
             {
-                runcardMethod.Transaccion(txtEtiquetaViajera.Text,"MOVE","");
+                runcardMethod.Transaccion(serialCut,"MOVE","");
                 Msg("Pieza Completada",1);
                 Limpiar();
             }
             else
             {
-                runcardMethod.Transaccion(txtEtiquetaViajera.Text,"SCRAP",cbxRechazar.Text);
+                runcardMethod.Transaccion(serialCut,"SCRAP",cbxRechazar.Text);
                 Msg("Unidad enviada a SCRAP",2);
                 Limpiar();
             }
@@ -316,6 +326,7 @@ namespace FinalInspectionKia
             lblDefecto.Visible = false;
             lblAprobacion.Visible = false;
 
+            serialCut = string.Empty;
 
         }
 

@@ -111,8 +111,8 @@ namespace FinalInspectionKia.Clases
                 defectCode = defect.Substring(0,7);
             }
             Console.WriteLine($"Cadena recortada: {defectCode}");
-            
 
+            Console.WriteLine("Salio esto " +serial);
             var status = cliente.getUnitStatus(serial, out error, out msg);
 
             if (error == 0)
