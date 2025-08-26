@@ -67,7 +67,7 @@ namespace FinalInspectionKia
             }
             else if (config.opcode == "Q110")
             {
-                lblTitulo.Text = "Quality wall";
+                lblTitulo.Text = "Safe Launch";
                 lblOpcode.Text = $"{config.opcode}";
 
             }
@@ -145,8 +145,9 @@ namespace FinalInspectionKia
 
 
                     // Expresion regular P8818000#251915GK0149
-
-                    bool ok = Regex.IsMatch(txtEtiquetaViajera.Text.Trim(), "^P8818000#[0-9]{6}[A-Z]{2}[0-9]{4}$", RegexOptions.IgnoreCase);
+                    // P5958000#253013GI0033
+                   // bool ok = Regex.IsMatch(txtEtiquetaViajera.Text.Trim(), "^P8818000#[0-9]{6}[A-Z]{2}[0-9]{4}$", RegexOptions.IgnoreCase);
+                    bool ok = Regex.IsMatch(txtEtiquetaViajera.Text.Trim(), "^P[0-9]{7}[#][0-9]{6}[A-Z]{2}[0-9]{4}$", RegexOptions.IgnoreCase);
 
                     if (ok)
                     {
@@ -284,22 +285,36 @@ namespace FinalInspectionKia
         private void PBGood_Click(object sender, EventArgs e)
         {
             Transaccion();
+
+
+            txtEtiquetaViajera.Focus();
         }
 
 
         public void Transaccion()
         {
-
+            string retro = string.Empty;
 
             if (cbxRechazar.Text == string.Empty)
             {
-                runcardMethod.Transaccion(serialCut,"MOVE","");
+                runcardMethod.Transaccion(serialCut,"MOVE","",config.opcode,out retro);
+
+                if (retro.Contains("Error"))
+                {
+                    Msg(retro,2);
+                    return;
+                }
                 Msg("Pieza Completada",1);
                 Limpiar();
             }
             else
             {
-                runcardMethod.Transaccion(serialCut,"SCRAP",cbxRechazar.Text);
+                runcardMethod.Transaccion(serialCut,"SCRAP",cbxRechazar.Text,config.opcode,out retro);
+                if (retro.Contains("Error"))
+                {
+                    Msg(retro, 2);
+                    return;
+                }
                 Msg("Unidad enviada a SCRAP",2);
                 Limpiar();
             }

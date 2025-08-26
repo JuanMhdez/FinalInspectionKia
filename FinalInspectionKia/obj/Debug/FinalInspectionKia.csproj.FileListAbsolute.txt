@@ -36,3 +36,4 @@ C:\Users\juanh25\source\repos\Runcard\Final Isnpection Kia\FinalInspectionKia\Fi
 C:\Users\juanh25\source\repos\Runcard\Final Isnpection Kia\FinalInspectionKia\FinalInspectionKia\bin\Debug\FinalInspectionKia.application
 C:\Users\juanh25\source\repos\Runcard\Final Isnpection Kia\FinalInspectionKia\FinalInspectionKia\obj\Debug\FinalInspectionKia.exe.manifest
 C:\Users\juanh25\source\repos\Runcard\Final Isnpection Kia\FinalInspectionKia\FinalInspectionKia\obj\Debug\FinalInspectionKia.application
+C:\Users\juanh25\source\repos\Runcard\Final Isnpection Kia\FinalInspectionKia\FinalInspectionKia\obj\Debug\FinalInspectionKia.exe.config

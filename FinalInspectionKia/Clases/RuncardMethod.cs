@@ -93,7 +93,7 @@ namespace FinalInspectionKia.Clases
         }
 
 
-        public void Transaccion(string serial,string movimiento, string defect)
+        public void Transaccion(string serial,string movimiento, string defect, string op,out string retro)
         {
 
             int error;
@@ -115,6 +115,8 @@ namespace FinalInspectionKia.Clases
             Console.WriteLine("Salio esto " +serial);
             var status = cliente.getUnitStatus(serial, out error, out msg);
 
+
+
             if (error == 0)
             {
 
@@ -123,6 +125,16 @@ namespace FinalInspectionKia.Clases
                     houseloc = status.warehouseloc;
                     housebin = status.warehousebin;
                 }
+
+                if (op == "Q110")
+                {
+                    housebin = "INVENTORY";
+                    houseloc = "INVENTORY";
+
+                }
+
+                Console.WriteLine(houseloc);
+                Console.WriteLine(housebin);
 
                 transactionItem request = new transactionItem() {
                 
@@ -150,15 +162,18 @@ namespace FinalInspectionKia.Clases
 
 
                 Console.WriteLine($"Resultado: {msg}");
+                retro = msg;
 
             }
             else
             {
                 Console.WriteLine($"Error: {msg}");
                 log.generarlog($"Error: {msg}");
+                retro = $"Error: {msg}";
                 return;
             }          
 
+            
         }
 
 

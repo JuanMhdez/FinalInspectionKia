@@ -6,6 +6,10 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FinalInspectionKia||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}|FinalInspectionKia\\FinalInspectionKia.csproj|C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\finalinspectionkia\\clases\\runcardmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}|FinalInspectionKia\\FinalInspectionKia.csproj|solutionrelative:finalinspectionkia\\clases\\runcardmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}|FinalInspectionKia\\FinalInspectionKia.csproj|c:\\users\\juanh25\\source\\repos\\runcard\\final isnpection kia\\finalinspectionkia\\finalinspectionkia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}|FinalInspectionKia\\FinalInspectionKia.csproj|solutionrelative:finalinspectionkia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -14,8 +18,8 @@
       "RelativeMoniker": "D:0:0:{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}|FinalInspectionKia\\FinalInspectionKia.csproj|solutionrelative:finalinspectionkia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}|FinalInspectionKia\\FinalInspectionKia.csproj|C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\finalinspectionkia\\clases\\runcardmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}|FinalInspectionKia\\FinalInspectionKia.csproj|solutionrelative:finalinspectionkia\\clases\\runcardmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}|FinalInspectionKia\\FinalInspectionKia.csproj|C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\finalinspectionkia\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}|FinalInspectionKia\\FinalInspectionKia.csproj|solutionrelative:finalinspectionkia\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}|FinalInspectionKia\\FinalInspectionKia.csproj|C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\finalinspectionkia\\config.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -24,10 +28,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}|FinalInspectionKia\\FinalInspectionKia.csproj|C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\finalinspectionkia\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}|FinalInspectionKia\\FinalInspectionKia.csproj|solutionrelative:finalinspectionkia\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}|FinalInspectionKia\\FinalInspectionKia.csproj|C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\finalinspectionkia\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}|FinalInspectionKia\\FinalInspectionKia.csproj|solutionrelative:finalinspectionkia\\mensaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D043DF37-F4BA-46C8-B430-FAAF693AD3BA}|FinalInspectionKia\\FinalInspectionKia.csproj|C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\finalinspectionkia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -80,20 +80,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\FinalInspectionKia\\Form1.cs",
               "RelativeDocumentMoniker": "FinalInspectionKia\\Form1.cs",
               "ToolTip": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\FinalInspectionKia\\Form1.cs",
               "RelativeToolTip": "FinalInspectionKia\\Form1.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAWwEUAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAvwCsBAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T13:19:06.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "config.ini",
               "DocumentMoniker": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\FinalInspectionKia\\config.ini",
               "RelativeDocumentMoniker": "FinalInspectionKia\\config.ini",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\FinalInspectionKia\\Form1.cs",
               "RelativeDocumentMoniker": "FinalInspectionKia\\Form1.cs",
@@ -154,36 +154,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Mensaje.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\FinalInspectionKia\\Mensaje.cs",
               "RelativeDocumentMoniker": "FinalInspectionKia\\Mensaje.cs",
-              "ToolTip": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\FinalInspectionKia\\Mensaje.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "FinalInspectionKia\\Mensaje.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\FinalInspectionKia\\Mensaje.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FinalInspectionKia\\Mensaje.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T13:19:27.823Z"
+              "WhenOpened": "2025-07-31T13:19:27.823Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Login.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\FinalInspectionKia\\Login.cs",
               "RelativeDocumentMoniker": "FinalInspectionKia\\Login.cs",
               "ToolTip": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\FinalInspectionKia\\Login.cs [Dise\u00F1o]",
               "RelativeToolTip": "FinalInspectionKia\\Login.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T13:33:41.188Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-08-01T13:33:41.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "RuncardMethod.cs",
               "DocumentMoniker": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\FinalInspectionKia\\Clases\\RuncardMethod.cs",
               "RelativeDocumentMoniker": "FinalInspectionKia\\Clases\\RuncardMethod.cs",
               "ToolTip": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\FinalInspectionKia\\Clases\\RuncardMethod.cs",
               "RelativeToolTip": "FinalInspectionKia\\Clases\\RuncardMethod.cs",
-              "ViewState": "AgIAAKQAAAAAAAAAAAAawHIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAvwF8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T17:24:48.465Z",
               "EditorCaption": ""
@@ -194,11 +194,12 @@
               "Title": "Mensaje.cs",
               "DocumentMoniker": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\FinalInspectionKia\\Mensaje.cs",
               "RelativeDocumentMoniker": "FinalInspectionKia\\Mensaje.cs",
-              "ToolTip": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\FinalInspectionKia\\Mensaje.cs*",
-              "RelativeToolTip": "FinalInspectionKia\\Mensaje.cs*",
+              "ToolTip": "C:\\Users\\juanh25\\source\\repos\\Runcard\\Final Isnpection Kia\\FinalInspectionKia\\FinalInspectionKia\\Mensaje.cs",
+              "RelativeToolTip": "FinalInspectionKia\\Mensaje.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T13:24:40.38Z"
+              "WhenOpened": "2025-07-31T13:24:40.38Z",
+              "EditorCaption": ""
             }
           ]
         }
